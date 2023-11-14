@@ -1,4 +1,5 @@
-# Altiq-Hospitality-Insights
+# Altiq-Hospitality-Insights 
+live dashboard - https://www.novypro.com/project/atliqs-hospitality-insights
 I am delighted to present my findings from the "Hospitality Analysis Project," part of the Code Basics Resume Project Challenge. 🚀
 
 🎯 Problem Statement:
